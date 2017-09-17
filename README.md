@@ -1,5 +1,9 @@
 # Greenhouse-Automation-and-Monitoring-System
-It is My Final Year Bachleors Degree Coursework Project 
+It is My Final Year Bachleors Degree Coursework Project
+
+Author Neel Shah
+
+Date: 15 July 2016 (Late Upload !! But I figured out github just now)
 
 It consists of temperature and humidity sensor node, soil moisture sensor node hardwired into raspberry pi where the final python code is embedded in the operating system as a high priority startup background daemon.
 
