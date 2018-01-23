@@ -16,11 +16,17 @@ Similar is the system for the water pump but it has only two modes Time-Based an
 # Getting Started
 Connect Reaspberry Pi and Other Circuitory in Proper Manner
 The Components needed will be,
+
 -> DHT 11 or any DHT Family Hygrometer and Temperature Sensor
+
 -> Generic Soil Hygrometer
+
 -> Raspberry Pi (Any Version)
+
 -> Generic Relay Motor Driver Circuit
+
 -> Water pump
+
 -> Fan (Small Size)
 
 Note: I have Used Low Voltage Components on AC Supply via AC to DC converter.
