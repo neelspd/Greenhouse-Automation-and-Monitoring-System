@@ -32,7 +32,7 @@ The Components needed will be,
 Note: I have Used Low Voltage Components on AC Supply via AC to DC converter.
 
 # Contributing
-### Author : Neel Shah (https://bit.ly/2pSbJVN)
+### Author : Neel Shah (https://bit.ly/2pSbJVN), Prof. Priyang Bhatt, Mr. Punit Shah
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 Versioning
 
